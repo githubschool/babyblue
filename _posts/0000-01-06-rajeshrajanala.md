@@ -1,5 +1,5 @@
 ---
-hi how are you
+hi how are you, Hello how are you?
 layout: slide
 title: "Welcome to our slide deck!"
 ---
